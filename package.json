@@ -1,0 +1,19 @@
+{
+  "name": "projetos",
+  "version": "1.0.0",
+  "description": "Bem vindo aos meus projetos! Parte dos projetos foram desenvolvidos na disciplina Integração de Dados. Autor Natalia Nunes da Silva.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natalianunes23/projetos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natalianunes23/projetos/issues"
+  },
+  "homepage": "https://github.com/natalianunes23/projetos#readme"
+}
