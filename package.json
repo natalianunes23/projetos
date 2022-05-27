@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/natalianunes23/projetos/issues"
   },
-  "homepage": "https://github.com/natalianunes23/projetos#readme"
+  "homepage": "https://github.com/natalianunes23/projetos#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
